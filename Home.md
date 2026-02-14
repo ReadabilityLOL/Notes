@@ -1,1 +1,1 @@
-<<GlobalTOC("All pages")>>
+<<Navigation("Table of Contents")>>
