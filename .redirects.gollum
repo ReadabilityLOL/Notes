@@ -1,3 +1,4 @@
 ---
 math/math.md: math.md
 math.md: sections/math.md
+sections/math.md: topics/math.md
