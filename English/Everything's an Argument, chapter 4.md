@@ -1,4 +1,3 @@
-# Everything's an argument chapter 4
 ## Intro
 - Logos is the portion of arguments based on:
 	- Facts
