@@ -1,4 +1,4 @@
-> Disclaimer: These are really bad notes
+<<Warn("These are really bad notes")>>
 
 ## Current colonial holdings
 - Spanish:
