@@ -1,5 +1,3 @@
-# Everything's an argument, chapter 1
-
 ## Everything's an argument
 - Everything we do is a statement in some way
 	- What we choose to wear
