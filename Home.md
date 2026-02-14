@@ -1,1 +1,1 @@
-<<Navigation("Table of Contents","/topics")>>
+<<Navigation("Table of Contents",/topics)>>
