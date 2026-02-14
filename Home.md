@@ -1,2 +1,2 @@
 ## Welcome to my notes
-<<AllPages()>>
+<<GlobalTOC()>>
