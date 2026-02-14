@@ -1,2 +1,2 @@
 ## Welcome to my notes
-<<GlobalTOC()>>
+<<GlobalTOC("All pages")>>
