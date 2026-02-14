@@ -1,1 +1,1 @@
-<<Navigation("Table of Contents","Social Studies", true)>>
+<<Navigation("Table of Contents","Social Studies")>>
