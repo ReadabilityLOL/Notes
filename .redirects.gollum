@@ -4,3 +4,4 @@ math.md: sections/math.md
 sections/math.md: topics/math.md
 Social Studes/APUSH Unit 2.md: Social Studies/APUSH Unit 2.md
 topics/math.md: topics/Math.md
+topics/english.md: topics/English.md
