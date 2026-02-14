@@ -1,1 +1,1 @@
-<<Navigation("Math table of contents")>>
+<<Navigation("Math table of contents","/math")>>
