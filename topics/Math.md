@@ -1,1 +1,0 @@
-<<Navigation("Math table of contents","math")>>
